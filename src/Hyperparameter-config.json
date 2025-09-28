@@ -1,0 +1,13 @@
+{
+  "dataset": {
+    "test_size": 0.2,
+    "validation_size": 0.1,
+    "random_state": 42
+  },
+  "model": {
+    "n_estimators": 100,
+    "max_depth": 3,
+    "random_state": 42
+  }
+}
+
